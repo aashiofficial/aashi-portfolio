@@ -19,4 +19,4 @@ I'm a CS & AI student at IGDTUW, currently learning web development, Python, and
 - Improve my GitHub and technical portfolio
 
 ## 📫 Connect with me
-- LinkedIn: Add your LinkedIn link here
+- LinkedIn: https://www.linkedin.com/in/aashi-b7074431a
